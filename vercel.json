@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/isw_u4_tarjetas.html" }
+  ]
+}
